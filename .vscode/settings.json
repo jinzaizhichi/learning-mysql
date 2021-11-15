@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol"
+            },
+            "previewLimit": 50,
+            "server": "m-2zem3c72ip9enr88w.mysql.rds.aliyuncs.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "mysql@aliyun.com",
+            "database": "xinyongka",
+            "username": "jinzaizhichi",
+            "password": "ilyfe2000"
+        }
+    ]
+}
